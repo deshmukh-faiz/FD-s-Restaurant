@@ -1,0 +1,17 @@
+.top{
+    justify-content: center;
+    background-image: url(./png-transparent-old-wood-texture-old-wood-texture-old-wood-wood-texture.png);
+    text-align: center;
+    height: auto;
+    padding: 20px;
+    font-size: 18px;
+    block-size: 100px;   
+}
+.form{
+    background-color: rgb(249, 249, 249);
+    width: 200px;
+    border-radius:50px;
+    padding: 30px;
+    text-align: left;
+    
+}

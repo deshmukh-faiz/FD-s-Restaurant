@@ -1,0 +1,12 @@
+.feedback{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    color: rgb(34, 0, 255);
+}
+.textarea{
+    border-radius: 5px;
+}
+.f{
+    color: rgb(34, 0, 255);
+}
